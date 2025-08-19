@@ -4,6 +4,7 @@
 
 ## 構成
 
+```bash
 test-paddleocr/
 ├── README.md
 ├── pyproject.toml
@@ -13,6 +14,7 @@ test-paddleocr/
 │   │   └── sample-multilingual-text.pdf      # OCR実行テスト用のPDF
 │   └── output                                 # OCR結果保存用ディレクトリ
 └── uv.lock
+```
 
 ## ライブラリ
 
