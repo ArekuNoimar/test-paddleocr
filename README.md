@@ -26,11 +26,17 @@ setuptools==80.9.0
 ## 初期設定
 
 ```bash
+# ディレクトリ変更
 cd test-paddleocr
 
+# python 3.12.3の仮想環境を作成する
 uv venv --python 3.12.3
 
+# 仮想環境の有効化
 source .venv/bin/activate
+
+# 環境同期
+uv sync
 ```
 
 ## 使い方
