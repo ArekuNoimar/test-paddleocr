@@ -1,4 +1,6 @@
-# このリポジトリについて
+# Test PaddleOCR
+
+## 概要
 
 このリポジトリはPaddleOCRの実験用です。GPUは利用せず、CPUのみで実行します。
 
